@@ -1,0 +1,28 @@
+.box{
+	min-height: 100px;
+	background-color: teal;
+	margin-bottom: 5px;
+	text-align: center;
+	color: white;
+	font-size: 23px;
+}
+.back1{
+	background-color: lightgrey;
+	border-bottom: 1px solid red;
+	min-height: 200px;
+}
+.back2{
+	background-color: lightblue;
+	border-bottom: 1px solid red;
+	min-height: 200px;
+}
+
+h4{
+	text-align: center;
+}
+p{
+	text-align: center;
+}
+a{
+	font-color:white;
+}
